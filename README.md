@@ -4,7 +4,6 @@ A sophisticated AI-powered web application that translates video content across 
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-3.0-green.svg)
-![License](https://img.shields.io/badge/License-MIT-red.svg)
 
 ---
 
