@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Flask
+instance/
+.webassets-cache
+
+# Uploads and outputs
+uploads/
+outputs/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.srt
+
+# ML Models cache
+.cache/
+models/
+*.index
+docs.json
+faiss_index.index
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
