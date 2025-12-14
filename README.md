@@ -18,6 +18,18 @@ A sophisticated AI-powered web application that translates video content across 
 - 💾 **Easy Download** - Get your translated videos with embedded subtitles
 
 ---
+## 📷 Screen Shots
+
+<img width="1443" height="828" alt="image" src="https://github.com/user-attachments/assets/7ea76da6-5c0e-429f-9ff3-19d3630e227a" />
+
+
+<img width="1470" height="835" alt="image" src="https://github.com/user-attachments/assets/76f72243-b7e6-4d0f-bf6c-0275b383b10b" />
+
+
+<img width="1449" height="740" alt="image" src="https://github.com/user-attachments/assets/879f6e86-7f59-4928-b93f-c7246818e186" />
+
+
+
 
 ## 🛠️ Tech Stack
 
